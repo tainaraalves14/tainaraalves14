@@ -36,6 +36,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tainaraalves14=tainaralves14&layout=compact)](https://github.com/tainaraalves14/github-readme-stats)
-  
- ![Snake animation](https://github.com/tainaraalves14/tainaralves14/blob/output/github-contribution-grid-snake.svg)
+
