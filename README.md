@@ -9,7 +9,8 @@
  <strong>“Insanidade é: fazer a mesma coisa várias vezes e esperar resultados diferentes”<strong>
  
 </p>
-<img src"https://www.canva.com/design/DAFLA8HzGkg/yhAf35-15vLCl2HOYX5dJg/watch?utm_content=DAFLA8HzGkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img 
+  src["https://www.canva.com/design/DAFLA8HzGkg/yhAf35-15vLCl2HOYX5dJg/watchutm_content=DAFLA8HzGkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"](https://www.canva.com/design/DAFLA8HzGkg/view)>
 
  ##
  
