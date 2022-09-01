@@ -9,7 +9,7 @@
  <strong>“Insanidade é: fazer a mesma coisa várias vezes e esperar resultados diferentes”<strong>
  
 </p>
-<img src= file:///C:/Users/Usuario/Desktop/Downloads/Banner%20ecommerce%20smartwatch%20loja%20de%20eletr%C3%B4nicos%20produto%20promo%C3%A7%C3%A3o%20dropshipping%20oferta%20instagram%20stories.png>
+<img src"https://www.canva.com/design/DAFLA8HzGkg/yhAf35-15vLCl2HOYX5dJg/watch?utm_content=DAFLA8HzGkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
  ##
  
