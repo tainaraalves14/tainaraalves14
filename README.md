@@ -11,7 +11,7 @@
 </p>
  
   
- <code><img src="https://www.canva.com/design/DAFLA8HzGkg/view" min-width="400px" max-width="400px" width="400px" align="right" ></code>
+ <code><img src="https://www.canva.com/design/DAFLA8HzGkg/view" ></code>
  ##
  
  
