@@ -18,4 +18,4 @@
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=tainaraalves14&theme=default&show_icons=true)](https://github.com/tainaraalves14/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainaraalves14&hide=javascript,html)](https://github.com/tainaraalves14/github-readme-stats)
+
