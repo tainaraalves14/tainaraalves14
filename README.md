@@ -8,7 +8,8 @@
 </div>
 
  ### Skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=e34c26&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSharp](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=563d7c&labelColor=0D1117)&nbsp; 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,html,css,js,cs,java,ts,docker,c,idea" />
+  </a>
+</p>
