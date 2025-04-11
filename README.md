@@ -10,6 +10,8 @@
  ### Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma,html,css,js,cs,java,ts,linux, ubuntu, git, gitlab, html, css, javascript, typescript, python, java, kotlin, csharp, dart, react, angular, flutter, nodejs, dotnet, sass, tailwind, postgresql, mongodb, visualstudio, idea, figma, vercel" />
-  </a>
+  <a>
+  <img src="https://skillicons.dev/iconsi=git,vscode,figma,html,css,js,csharp,java,ts,linux,gitlab,python,kotlin,dart,react,angular,flutter,nodejs,dotnet,sass,tailwind,postgres,mongodb,visualstudio,idea,vercel" />
+</a>
+
 </p>
