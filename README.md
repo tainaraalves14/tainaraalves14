@@ -10,8 +10,6 @@
  ### Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-  <a>
-  <img src="https://skillicons.dev/iconsi=git,vscode,figma,html,css,js,csharp,java,ts,linux,gitlab,python,kotlin,dart,react,angular,flutter,nodejs,dotnet,sass,tailwind,postgres,mongodb,visualstudio,idea,vercel" />
-</a>
+ [![My Skills](https://skillicons.dev/icons?i=Linux,js,html,css,)](https://skillicons.dev)
 
 </p>
