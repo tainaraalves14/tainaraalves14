@@ -10,6 +10,6 @@
  ### Skills:
 <p align="center">
   <a href="https://skillicons.dev">
- [![My Skills](https://skillicons.dev/icons?i=Linux,js,html,css,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=linux,js,html,css,)](https://skillicons.dev)
 
 </p>
