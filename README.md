@@ -4,21 +4,7 @@
 
 <div align="center">
 
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=tainaraalves14&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117"
-    alt="GitHub stats for Tainara Alves"
-  />
-  
-  <img
-    width="41%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainaraalves14&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117"
-    alt="Top languages used by Tainara Alves"
-  />
-
-</div>
+ 
 
 ### Skills
 
