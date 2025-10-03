@@ -36,7 +36,6 @@ Fique à vontade para entrar em contato, colaborar ou apenas bater um papo!
 
 ## Contato  
 
-- WhatsApp: (14) 99132-8714  
 - E-mail: tainaralves148@gmail.com  
 - LinkedIn: [linkedin.com/in/tainaraalvess](https://www.linkedin.com/in/tainaraalvess)  
 
