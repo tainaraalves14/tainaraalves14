@@ -33,6 +33,5 @@ Acredito no aprendizado contínuo, em código limpo e no poder da tecnologia par
 ---
 
 Fique à vontade para entrar em contato, colaborar ou apenas bater um papo!  
-[LinkedIn](www.linkedin.com/in/tainaraalvess) • 💌 [Email](mailto:tainaralves148@email.com) • 🐙 [GitHub](https://github.com)
 
 </div>
