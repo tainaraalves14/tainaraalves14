@@ -22,7 +22,7 @@ Pilares: **SOLID, Clean Code e testes automatizados** — qualidade e escalabili
 <div align="center">
 
 ###  Core Engineering (Backend & Mobile)  
-[![My Skills](https://skillicons.dev/icons?i=py,cs,java,nodejs,nestjs,dotnet,kotlin,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,java,nodejs,nestjs,dotnet)](https://skillicons.dev)
 
 ###  Frontend & Data Visualization  
 [![Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,angular,sass,tailwind,figma)](https://skillicons.dev)
