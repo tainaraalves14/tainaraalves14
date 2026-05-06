@@ -28,7 +28,7 @@ Pilares: **SOLID, Clean Code e testes automatizados** — qualidade e escalabili
 [![Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,angular,sass,tailwind,figma)](https://skillicons.dev)
 
 ###  DevOps, Infra & Databases  
-[![Infra Skills](https://skillicons.dev/icons?i=docker,postgres,mongodb,mysql,git,github,gitlab,linux,vercel)](https://skillicons.dev)
+[![Infra Skills](https://skillicons.dev/icons?i=docker,postgres,mongodb,mysql,git,github,gitlab,linux,vercel,jira)](https://skillicons.dev)
 
 </div>
 
